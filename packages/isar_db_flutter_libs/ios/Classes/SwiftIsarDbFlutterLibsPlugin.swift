@@ -1,7 +1,7 @@
 import Flutter
 import UIKit
 
-public class SwiftIsarFlutterLibsPlugin: NSObject, FlutterPlugin {
+public class SwiftIsarDbFlutterLibsPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
     }
     
